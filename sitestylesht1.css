@@ -1,0 +1,29 @@
+.w1{
+
+background-color: rgb(243, 196, 134);
+text-align: left;
+
+
+
+}
+
+
+h2{
+text-align: left;
+}
+h2.instagram{
+    text-align: right;
+}
+.ttlofpg{
+   font-family: sans-serif;
+    font-size: 4em;
+}
+.hdtwtbl{
+background: rgb(31, 99, 226);
+font-family: sans-serif;
+position: absolute;
+left: 530px;
+font-size: 1.5em;
+}
+
+
