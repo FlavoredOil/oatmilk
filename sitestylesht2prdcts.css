@@ -1,0 +1,120 @@
+.ttlofpg:first-of-type::first-letter{
+    font-size: 2.4em
+}
+
+
+
+
+.w1{
+
+    background-color: rgb(243, 196, 134);
+    text-align: left;
+    
+    }
+    
+    body{
+        background-color: plum;
+    }
+    
+    
+    .wwrp{
+    margin-left: 10px;
+        text-align: left;
+        font-family: Ruslan Display;
+    }
+    .instagram{
+        text-align: right;
+    margin-right: 10px;
+    }
+    .ttlofpg{
+        margin-left: 10px;
+        font-family: sans-serif;
+        font-size: 4em;
+        font-family: Ruslan Display;
+    }
+    .hdtwtbl{
+    background: rgb(31, 99, 226);
+    font-family: sans-serif;
+    margin-right: auto ;
+    margin-left: auto;
+    font-size: 1.5em;
+    display: block;
+    width: 100%;
+    border: 3.2px;
+    border: solid;
+    margin-top: -6px;
+    }
+    
+     th a h2 {
+      margin-top: 10px;
+        margin-left: 171px;
+     color: black;
+        border: 3.2px solid;
+    }
+    .img11{
+        margin-left: 40;
+        margin-right: 40;
+        margin-top: 40px;
+    border: 2.2px solid;
+    }
+    .txtnthr {
+      margin-left: 40px;
+        margin-top: 40px;
+        font-size: 2.2em;
+        border: 2.2px solid;
+    background-color: rgb(141, 78, 110);
+    }
+    
+    .column {
+        float: left;
+        width: 50%;
+        padding: 5px;
+    }
+    
+    .txtnthry{
+        background-color: rgb(155, 55, 226);
+    font-size: 2.2em;
+    float: right;
+    margin-right: 40px;
+    margin-top: 40px;
+    border: 2.2px solid;
+    }
+    .bttm {
+        float: left;
+        width: 50%;
+        padding: 5px;
+    }
+    .textnthruu{
+        border: 2.2px solid;
+    font-size: 2.2em;
+    margin-top: 40px;
+    margin-right: 40px;
+    background-color: lawngreen;
+    margin-bottom: 40px;
+    }
+    .imgrr{
+        margin-top: 40px;
+    margin-left: 40px;
+    border: 2.2px solid;
+    margin-bottom: 40px;
+    }
+    .txtnthrvv {
+        border: 2.2px solid; 
+    font-size: 2.2em;
+    text-align: right;
+    background-color: lightskyblue;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-bottom: 40px;
+    }
+    .btn {
+border: 2.2px solid;
+   background-color: yellow;
+}
+a h2:hover {
+    background-color: chocolate;
+}
+a h2{
+    background-color: forestgreen;
+}
