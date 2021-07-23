@@ -1,0 +1,147 @@
+.ttlofpg:first-of-type::first-letter{
+    font-size: 2.4em
+}
+
+     th a h2 {
+      margin-top: 10px;
+        margin-left: 171px;
+     color: black;
+        border: 3.2px solid;
+    }
+    
+    .txtnthr {
+      margin-left: 40px;
+        margin-top: 40px;
+        font-size: 2.2em;
+        border: 2.2px solid;
+    background-color: rgb(141, 78, 110);
+    }
+    
+    .column {
+        float: left;
+        width: 50%;
+        padding: 5px;
+    }
+    
+    .txtnthry{
+        background-color: rgb(155, 55, 226);
+    font-size: 2.2em;
+    float: right;
+    margin-right: 40px;
+    margin-top: 40px;
+    border: 2.2px solid;
+    }
+    
+    .textnthruu{
+        border: 2.2px solid;
+    font-size: 2.2em;
+    margin-top: 40px;
+    margin-right: 40px;
+    background-color: lawngreen;
+    margin-bottom: 40px;
+    }
+  
+    .txtnthrvv {
+        border: 2.2px solid; 
+    font-size: 2.2em;
+    text-align: right;
+    background-color: lightskyblue;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-bottom: 40px;
+    }
+    .btn {
+border: 2.2px solid;
+   background-color: yellow;
+}
+
+.PaymentInfo{
+    width: 300px;
+}
+
+
+
+
+
+
+form#payment {
+    background-color: rgb(206, 141, 56, );
+
+}
+ 
+ fieldset {
+    border: none;
+ }
+ 
+legend{
+margin-left: 90px;
+}
+
+label {
+    display: block;
+    float: left;
+    clear: left;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 180px;
+    text-align: right;
+  
+ }
+ 
+ form#payment input, form#payment select {
+    display: block;
+    float: left;
+ 
+ }
+ 
+ label.cardLabel {
+    display: inline-block;
+    float: none;
+    width: auto;
+ }
+ 
+ label.cardLabel img {
+    border: 1px solid rgb(181, 181, 181);
+    box-shadow: rgb(51, 51, 51) 0px 0px 10px;
+ }
+ 
+ input[type='radio'] {
+    width: auto;
+    float: none;
+    clear: none;
+    margin-right: 15px;
+ }
+ button {
+  position: relative;
+  left: -170px;
+  top: 49px;
+  float: left;
+    border: none;
+    display: block;
+    margin: 5px auto;
+ }
+ 
+ .bigbox{
+   border: 2.2px solid;
+  padding-bottom: 60px;  
+float: right;
+position: fixed;
+margin-top: 40px;
+margin-left: 40px;
+background-color: turquoise;
+}
+.tablecart{
+position: relative;
+left: 600px;
+top: 40px;
+border: 2.2px solid;
+background-color: tomato;
+font-size: 2.2em;
+}
+.txtnthrvv{
+    position: relative;
+    top: 100px;
+margin-bottom: 40px;
+}

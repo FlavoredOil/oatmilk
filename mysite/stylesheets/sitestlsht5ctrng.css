@@ -1,0 +1,92 @@
+.ttlofpg:first-of-type::first-letter{
+    font-size: 2.4em
+}
+
+
+     th a h2 {
+      margin-top: 10px;
+        margin-left: 171px;
+     color: black;
+        border: 3.2px solid;
+    }
+    
+    .txtnthr {
+      margin-left: 40px;
+        margin-top: 40px;
+        font-size: 2.2em;
+        border: 2.2px solid;
+    background-color: rgb(141, 78, 110);
+    }
+    
+    .column {
+        float: left;
+        width: 50%;
+        padding: 5px;
+    }
+    
+    .txtnthry{
+        background-color: rgb(155, 55, 226);
+    font-size: 2.2em;
+    float: right;
+    margin-right: 40px;
+    margin-top: 40px;
+    border: 2.2px solid;
+    }
+    .bttm {
+        float: left;
+        width: 50%;
+        padding: 5px;
+    }
+    .textnthruu{
+        border: 2.2px solid;
+    font-size: 2.2em;
+    margin-top: 40px;
+    margin-right: 40px;
+    background-color: lawngreen;
+    margin-bottom: 40px;
+    }
+  
+    .txtnthrvv {
+        border: 2.2px solid; 
+    font-size: 2.2em;
+    text-align: right;
+    background-color: lightskyblue;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-bottom: 40px;
+    }
+    .btn {
+border: 2.2px solid;
+   background-color: yellow;
+}
+
+
+.tablerl{
+    width: 95.4%;
+   
+    border-collapse: collapse;
+background-color: turquoise;
+margin-bottom: 40px;
+margin-left: 40px;
+margin-right: 40px;
+margin-top: 40px;
+}
+td{
+    border: 3px solid rgb(0, 0, 0);
+    vertical-align: top;
+    align-items: center;
+    padding: 5px;
+ }
+ .j {
+    border: 3px solid rgb(0, 0, 0);
+    align-items: center;
+    padding: 5px;
+  background-color: rgb(33, 172, 182);
+}
+    .j:hover{
+background-color: yellow;
+    }
+    td:hover{
+        background-color: yellow;
+    }
