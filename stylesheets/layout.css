@@ -1,0 +1,47 @@
+.w1{
+
+    background-color: rgb(243, 196, 134);
+    text-align: left;
+    
+    }
+    
+    body{
+        background-color: plum;
+    }
+    
+    
+    .wwrp{
+    margin-left: 10px;
+        text-align: left;
+        font-family: Ruslan Display;
+    }
+    .instagram{
+        text-align: right;
+    margin-right: 10px;
+    }
+    .ttlofpg{
+        margin-left: 10px;
+        font-family: Ruslan Display;
+        font-size: 4em;
+    }
+    .hdtwtbl{
+    background: rgb(31, 99, 226);
+    font-family: sans-serif;
+    margin-right: auto ;
+    margin-left: auto;
+    font-size: 1.5em;
+    display: block;
+    width: 100%;
+    border: 3.2px;
+    border: solid;
+    margin-top: -6px;
+    }
+    a h2:hover {
+        background-color: chocolate;
+    font-size: 2.4em;
+    
+}
+    a h2{
+        background-color: forestgreen;
+    }    
+   
